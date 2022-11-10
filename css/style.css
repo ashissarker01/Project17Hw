@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    height: 1000px;
+    background:white;
+   padding-top: 100px;
+}
+
+.container button{
+    display: block;
+}
+
+button{
+    width: 50%;
+    height: 35px;
+    border-radius: 5px;
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.212);
+    text-transform: uppercase;
+    color: black;
+    font-size: 15px;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+
+.box,box2,box3,box4,box5,box6,box7{
+    
+    height: 120px;
+    width: 1000px;
+    background: white;
+    
+}
+
+
+
